@@ -1,0 +1,2 @@
+# cekilisProjesiHasanAli
+ çekiliş projesi.
