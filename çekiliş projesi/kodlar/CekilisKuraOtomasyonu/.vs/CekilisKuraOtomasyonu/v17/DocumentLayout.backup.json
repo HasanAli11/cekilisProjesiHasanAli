@@ -1,0 +1,372 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\recep\\source\\repos\\CekilisKuraOtomasyonu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{405F48AF-1FAC-47F7-9C53-1185ED8F0013}|CekilisKuraOtomasyonu\\CekilisKuraOtomasyonu.csproj|c:\\users\\recep\\source\\repos\\cekiliskuraotomasyonu\\cekiliskuraotomasyonu\\models\\sonuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{405F48AF-1FAC-47F7-9C53-1185ED8F0013}|CekilisKuraOtomasyonu\\CekilisKuraOtomasyonu.csproj|solutionrelative:cekiliskuraotomasyonu\\models\\sonuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{405F48AF-1FAC-47F7-9C53-1185ED8F0013}|CekilisKuraOtomasyonu\\CekilisKuraOtomasyonu.csproj|c:\\users\\recep\\source\\repos\\cekiliskuraotomasyonu\\cekiliskuraotomasyonu\\models\\kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{405F48AF-1FAC-47F7-9C53-1185ED8F0013}|CekilisKuraOtomasyonu\\CekilisKuraOtomasyonu.csproj|solutionrelative:cekiliskuraotomasyonu\\models\\kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{405F48AF-1FAC-47F7-9C53-1185ED8F0013}|CekilisKuraOtomasyonu\\CekilisKuraOtomasyonu.csproj|c:\\users\\recep\\source\\repos\\cekiliskuraotomasyonu\\cekiliskuraotomasyonu\\models\\katilimci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{405F48AF-1FAC-47F7-9C53-1185ED8F0013}|CekilisKuraOtomasyonu\\CekilisKuraOtomasyonu.csproj|solutionrelative:cekiliskuraotomasyonu\\models\\katilimci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{405F48AF-1FAC-47F7-9C53-1185ED8F0013}|CekilisKuraOtomasyonu\\CekilisKuraOtomasyonu.csproj|c:\\users\\recep\\source\\repos\\cekiliskuraotomasyonu\\cekiliskuraotomasyonu\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{405F48AF-1FAC-47F7-9C53-1185ED8F0013}|CekilisKuraOtomasyonu\\CekilisKuraOtomasyonu.csproj|solutionrelative:cekiliskuraotomasyonu\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{405F48AF-1FAC-47F7-9C53-1185ED8F0013}|CekilisKuraOtomasyonu\\CekilisKuraOtomasyonu.csproj|c:\\users\\recep\\source\\repos\\cekiliskuraotomasyonu\\cekiliskuraotomasyonu\\models\\cekilis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{405F48AF-1FAC-47F7-9C53-1185ED8F0013}|CekilisKuraOtomasyonu\\CekilisKuraOtomasyonu.csproj|solutionrelative:cekiliskuraotomasyonu\\models\\cekilis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{405F48AF-1FAC-47F7-9C53-1185ED8F0013}|CekilisKuraOtomasyonu\\CekilisKuraOtomasyonu.csproj|c:\\users\\recep\\source\\repos\\cekiliskuraotomasyonu\\cekiliskuraotomasyonu\\data\\uygulamadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{405F48AF-1FAC-47F7-9C53-1185ED8F0013}|CekilisKuraOtomasyonu\\CekilisKuraOtomasyonu.csproj|solutionrelative:cekiliskuraotomasyonu\\data\\uygulamadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{405F48AF-1FAC-47F7-9C53-1185ED8F0013}|CekilisKuraOtomasyonu\\CekilisKuraOtomasyonu.csproj|c:\\users\\recep\\source\\repos\\cekiliskuraotomasyonu\\cekiliskuraotomasyonu\\data\\cekilisotomasyonudbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{405F48AF-1FAC-47F7-9C53-1185ED8F0013}|CekilisKuraOtomasyonu\\CekilisKuraOtomasyonu.csproj|solutionrelative:cekiliskuraotomasyonu\\data\\cekilisotomasyonudbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{405F48AF-1FAC-47F7-9C53-1185ED8F0013}|CekilisKuraOtomasyonu\\CekilisKuraOtomasyonu.csproj|c:\\users\\recep\\source\\repos\\cekiliskuraotomasyonu\\cekiliskuraotomasyonu\\controllers\\sonuccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{405F48AF-1FAC-47F7-9C53-1185ED8F0013}|CekilisKuraOtomasyonu\\CekilisKuraOtomasyonu.csproj|solutionrelative:cekiliskuraotomasyonu\\controllers\\sonuccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{405F48AF-1FAC-47F7-9C53-1185ED8F0013}|CekilisKuraOtomasyonu\\CekilisKuraOtomasyonu.csproj|c:\\users\\recep\\source\\repos\\cekiliskuraotomasyonu\\cekiliskuraotomasyonu\\controllers\\kullanicicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{405F48AF-1FAC-47F7-9C53-1185ED8F0013}|CekilisKuraOtomasyonu\\CekilisKuraOtomasyonu.csproj|solutionrelative:cekiliskuraotomasyonu\\controllers\\kullanicicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{405F48AF-1FAC-47F7-9C53-1185ED8F0013}|CekilisKuraOtomasyonu\\CekilisKuraOtomasyonu.csproj|c:\\users\\recep\\source\\repos\\cekiliskuraotomasyonu\\cekiliskuraotomasyonu\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{405F48AF-1FAC-47F7-9C53-1185ED8F0013}|CekilisKuraOtomasyonu\\CekilisKuraOtomasyonu.csproj|solutionrelative:cekiliskuraotomasyonu\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{405F48AF-1FAC-47F7-9C53-1185ED8F0013}|CekilisKuraOtomasyonu\\CekilisKuraOtomasyonu.csproj|c:\\users\\recep\\source\\repos\\cekiliskuraotomasyonu\\cekiliskuraotomasyonu\\controllers\\cekiliscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{405F48AF-1FAC-47F7-9C53-1185ED8F0013}|CekilisKuraOtomasyonu\\CekilisKuraOtomasyonu.csproj|solutionrelative:cekiliskuraotomasyonu\\controllers\\cekiliscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{405F48AF-1FAC-47F7-9C53-1185ED8F0013}|CekilisKuraOtomasyonu\\CekilisKuraOtomasyonu.csproj|c:\\users\\recep\\source\\repos\\cekiliskuraotomasyonu\\cekiliskuraotomasyonu\\views\\cekilis\\sonuclar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{405F48AF-1FAC-47F7-9C53-1185ED8F0013}|CekilisKuraOtomasyonu\\CekilisKuraOtomasyonu.csproj|solutionrelative:cekiliskuraotomasyonu\\views\\cekilis\\sonuclar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{405F48AF-1FAC-47F7-9C53-1185ED8F0013}|CekilisKuraOtomasyonu\\CekilisKuraOtomasyonu.csproj|c:\\users\\recep\\source\\repos\\cekiliskuraotomasyonu\\cekiliskuraotomasyonu\\views\\cekilis\\ekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{405F48AF-1FAC-47F7-9C53-1185ED8F0013}|CekilisKuraOtomasyonu\\CekilisKuraOtomasyonu.csproj|solutionrelative:cekiliskuraotomasyonu\\views\\cekilis\\ekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{405F48AF-1FAC-47F7-9C53-1185ED8F0013}|CekilisKuraOtomasyonu\\CekilisKuraOtomasyonu.csproj|c:\\users\\recep\\source\\repos\\cekiliskuraotomasyonu\\cekiliskuraotomasyonu\\views\\cekilis\\detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{405F48AF-1FAC-47F7-9C53-1185ED8F0013}|CekilisKuraOtomasyonu\\CekilisKuraOtomasyonu.csproj|solutionrelative:cekiliskuraotomasyonu\\views\\cekilis\\detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{405F48AF-1FAC-47F7-9C53-1185ED8F0013}|CekilisKuraOtomasyonu\\CekilisKuraOtomasyonu.csproj|c:\\users\\recep\\source\\repos\\cekiliskuraotomasyonu\\cekiliskuraotomasyonu\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{405F48AF-1FAC-47F7-9C53-1185ED8F0013}|CekilisKuraOtomasyonu\\CekilisKuraOtomasyonu.csproj|solutionrelative:cekiliskuraotomasyonu\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{405F48AF-1FAC-47F7-9C53-1185ED8F0013}|CekilisKuraOtomasyonu\\CekilisKuraOtomasyonu.csproj|c:\\users\\recep\\source\\repos\\cekiliskuraotomasyonu\\cekiliskuraotomasyonu\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{405F48AF-1FAC-47F7-9C53-1185ED8F0013}|CekilisKuraOtomasyonu\\CekilisKuraOtomasyonu.csproj|solutionrelative:cekiliskuraotomasyonu\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{405F48AF-1FAC-47F7-9C53-1185ED8F0013}|CekilisKuraOtomasyonu\\CekilisKuraOtomasyonu.csproj|c:\\users\\recep\\source\\repos\\cekiliskuraotomasyonu\\cekiliskuraotomasyonu\\views\\kullanici\\giris.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{405F48AF-1FAC-47F7-9C53-1185ED8F0013}|CekilisKuraOtomasyonu\\CekilisKuraOtomasyonu.csproj|solutionrelative:cekiliskuraotomasyonu\\views\\kullanici\\giris.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{405F48AF-1FAC-47F7-9C53-1185ED8F0013}|CekilisKuraOtomasyonu\\CekilisKuraOtomasyonu.csproj|c:\\users\\recep\\source\\repos\\cekiliskuraotomasyonu\\cekiliskuraotomasyonu\\views\\kullanici\\kayit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{405F48AF-1FAC-47F7-9C53-1185ED8F0013}|CekilisKuraOtomasyonu\\CekilisKuraOtomasyonu.csproj|solutionrelative:cekiliskuraotomasyonu\\views\\kullanici\\kayit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{405F48AF-1FAC-47F7-9C53-1185ED8F0013}|CekilisKuraOtomasyonu\\CekilisKuraOtomasyonu.csproj|c:\\users\\recep\\source\\repos\\cekiliskuraotomasyonu\\cekiliskuraotomasyonu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{405F48AF-1FAC-47F7-9C53-1185ED8F0013}|CekilisKuraOtomasyonu\\CekilisKuraOtomasyonu.csproj|solutionrelative:cekiliskuraotomasyonu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{405F48AF-1FAC-47F7-9C53-1185ED8F0013}|CekilisKuraOtomasyonu\\CekilisKuraOtomasyonu.csproj|c:\\users\\recep\\source\\repos\\cekiliskuraotomasyonu\\cekiliskuraotomasyonu\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{405F48AF-1FAC-47F7-9C53-1185ED8F0013}|CekilisKuraOtomasyonu\\CekilisKuraOtomasyonu.csproj|solutionrelative:cekiliskuraotomasyonu\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 20,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\recep\\source\\repos\\CekilisKuraOtomasyonu\\CekilisKuraOtomasyonu\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "CekilisKuraOtomasyonu\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\recep\\source\\repos\\CekilisKuraOtomasyonu\\CekilisKuraOtomasyonu\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "CekilisKuraOtomasyonu\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T19:39:00.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UygulamaDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\recep\\source\\repos\\CekilisKuraOtomasyonu\\CekilisKuraOtomasyonu\\Data\\UygulamaDbContext.cs",
+              "RelativeDocumentMoniker": "CekilisKuraOtomasyonu\\Data\\UygulamaDbContext.cs",
+              "ToolTip": "C:\\Users\\recep\\source\\repos\\CekilisKuraOtomasyonu\\CekilisKuraOtomasyonu\\Data\\UygulamaDbContext.cs",
+              "RelativeToolTip": "CekilisKuraOtomasyonu\\Data\\UygulamaDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T19:38:50.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SonucController.cs",
+              "DocumentMoniker": "C:\\Users\\recep\\source\\repos\\CekilisKuraOtomasyonu\\CekilisKuraOtomasyonu\\Controllers\\SonucController.cs",
+              "RelativeDocumentMoniker": "CekilisKuraOtomasyonu\\Controllers\\SonucController.cs",
+              "ToolTip": "C:\\Users\\recep\\source\\repos\\CekilisKuraOtomasyonu\\CekilisKuraOtomasyonu\\Controllers\\SonucController.cs",
+              "RelativeToolTip": "CekilisKuraOtomasyonu\\Controllers\\SonucController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T19:38:42.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Detay.cshtml",
+              "DocumentMoniker": "C:\\Users\\recep\\source\\repos\\CekilisKuraOtomasyonu\\CekilisKuraOtomasyonu\\Views\\Cekilis\\Detay.cshtml",
+              "RelativeDocumentMoniker": "CekilisKuraOtomasyonu\\Views\\Cekilis\\Detay.cshtml",
+              "ToolTip": "C:\\Users\\recep\\source\\repos\\CekilisKuraOtomasyonu\\CekilisKuraOtomasyonu\\Views\\Cekilis\\Detay.cshtml",
+              "RelativeToolTip": "CekilisKuraOtomasyonu\\Views\\Cekilis\\Detay.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-01T21:46:48.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Sonuclar.cshtml",
+              "DocumentMoniker": "C:\\Users\\recep\\source\\repos\\CekilisKuraOtomasyonu\\CekilisKuraOtomasyonu\\Views\\Cekilis\\Sonuclar.cshtml",
+              "RelativeDocumentMoniker": "CekilisKuraOtomasyonu\\Views\\Cekilis\\Sonuclar.cshtml",
+              "ToolTip": "C:\\Users\\recep\\source\\repos\\CekilisKuraOtomasyonu\\CekilisKuraOtomasyonu\\Views\\Cekilis\\Sonuclar.cshtml",
+              "RelativeToolTip": "CekilisKuraOtomasyonu\\Views\\Cekilis\\Sonuclar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-01T21:33:14.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\recep\\source\\repos\\CekilisKuraOtomasyonu\\CekilisKuraOtomasyonu\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CekilisKuraOtomasyonu\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\recep\\source\\repos\\CekilisKuraOtomasyonu\\CekilisKuraOtomasyonu\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CekilisKuraOtomasyonu\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAlwB4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-01T21:32:24.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Ekle.cshtml",
+              "DocumentMoniker": "C:\\Users\\recep\\source\\repos\\CekilisKuraOtomasyonu\\CekilisKuraOtomasyonu\\Views\\Cekilis\\Ekle.cshtml",
+              "RelativeDocumentMoniker": "CekilisKuraOtomasyonu\\Views\\Cekilis\\Ekle.cshtml",
+              "ToolTip": "C:\\Users\\recep\\source\\repos\\CekilisKuraOtomasyonu\\CekilisKuraOtomasyonu\\Views\\Cekilis\\Ekle.cshtml",
+              "RelativeToolTip": "CekilisKuraOtomasyonu\\Views\\Cekilis\\Ekle.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-01T21:29:05.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\recep\\source\\repos\\CekilisKuraOtomasyonu\\CekilisKuraOtomasyonu\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CekilisKuraOtomasyonu\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\recep\\source\\repos\\CekilisKuraOtomasyonu\\CekilisKuraOtomasyonu\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CekilisKuraOtomasyonu\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-01T21:25:50.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Giris.cshtml",
+              "DocumentMoniker": "C:\\Users\\recep\\source\\repos\\CekilisKuraOtomasyonu\\CekilisKuraOtomasyonu\\Views\\Kullanici\\Giris.cshtml",
+              "RelativeDocumentMoniker": "CekilisKuraOtomasyonu\\Views\\Kullanici\\Giris.cshtml",
+              "ToolTip": "C:\\Users\\recep\\source\\repos\\CekilisKuraOtomasyonu\\CekilisKuraOtomasyonu\\Views\\Kullanici\\Giris.cshtml",
+              "RelativeToolTip": "CekilisKuraOtomasyonu\\Views\\Kullanici\\Giris.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAACTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-01T21:23:39.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Kayit.cshtml",
+              "DocumentMoniker": "C:\\Users\\recep\\source\\repos\\CekilisKuraOtomasyonu\\CekilisKuraOtomasyonu\\Views\\Kullanici\\Kayit.cshtml",
+              "RelativeDocumentMoniker": "CekilisKuraOtomasyonu\\Views\\Kullanici\\Kayit.cshtml",
+              "ToolTip": "C:\\Users\\recep\\source\\repos\\CekilisKuraOtomasyonu\\CekilisKuraOtomasyonu\\Views\\Kullanici\\Kayit.cshtml",
+              "RelativeToolTip": "CekilisKuraOtomasyonu\\Views\\Kullanici\\Kayit.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-01T21:23:19.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CekilisController.cs",
+              "DocumentMoniker": "C:\\Users\\recep\\source\\repos\\CekilisKuraOtomasyonu\\CekilisKuraOtomasyonu\\Controllers\\CekilisController.cs",
+              "RelativeDocumentMoniker": "CekilisKuraOtomasyonu\\Controllers\\CekilisController.cs",
+              "ToolTip": "C:\\Users\\recep\\source\\repos\\CekilisKuraOtomasyonu\\CekilisKuraOtomasyonu\\Controllers\\CekilisController.cs",
+              "RelativeToolTip": "CekilisKuraOtomasyonu\\Controllers\\CekilisController.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAswD8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T21:22:11.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\recep\\source\\repos\\CekilisKuraOtomasyonu\\CekilisKuraOtomasyonu\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CekilisKuraOtomasyonu\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\recep\\source\\repos\\CekilisKuraOtomasyonu\\CekilisKuraOtomasyonu\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CekilisKuraOtomasyonu\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T21:22:10.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cekilis.cs",
+              "DocumentMoniker": "C:\\Users\\recep\\source\\repos\\CekilisKuraOtomasyonu\\CekilisKuraOtomasyonu\\Models\\Cekilis.cs",
+              "RelativeDocumentMoniker": "CekilisKuraOtomasyonu\\Models\\Cekilis.cs",
+              "ToolTip": "C:\\Users\\recep\\source\\repos\\CekilisKuraOtomasyonu\\CekilisKuraOtomasyonu\\Models\\Cekilis.cs",
+              "RelativeToolTip": "CekilisKuraOtomasyonu\\Models\\Cekilis.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T20:54:39.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Katilimci.cs",
+              "DocumentMoniker": "C:\\Users\\recep\\source\\repos\\CekilisKuraOtomasyonu\\CekilisKuraOtomasyonu\\Models\\Katilimci.cs",
+              "RelativeDocumentMoniker": "CekilisKuraOtomasyonu\\Models\\Katilimci.cs",
+              "ToolTip": "C:\\Users\\recep\\source\\repos\\CekilisKuraOtomasyonu\\CekilisKuraOtomasyonu\\Models\\Katilimci.cs",
+              "RelativeToolTip": "CekilisKuraOtomasyonu\\Models\\Katilimci.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T20:55:57.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Kullanici.cs",
+              "DocumentMoniker": "C:\\Users\\recep\\source\\repos\\CekilisKuraOtomasyonu\\CekilisKuraOtomasyonu\\Models\\Kullanici.cs",
+              "RelativeDocumentMoniker": "CekilisKuraOtomasyonu\\Models\\Kullanici.cs",
+              "ToolTip": "C:\\Users\\recep\\source\\repos\\CekilisKuraOtomasyonu\\CekilisKuraOtomasyonu\\Models\\Kullanici.cs",
+              "RelativeToolTip": "CekilisKuraOtomasyonu\\Models\\Kullanici.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T20:55:56.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sonuc.cs",
+              "DocumentMoniker": "C:\\Users\\recep\\source\\repos\\CekilisKuraOtomasyonu\\CekilisKuraOtomasyonu\\Models\\Sonuc.cs",
+              "RelativeDocumentMoniker": "CekilisKuraOtomasyonu\\Models\\Sonuc.cs",
+              "ToolTip": "C:\\Users\\recep\\source\\repos\\CekilisKuraOtomasyonu\\CekilisKuraOtomasyonu\\Models\\Sonuc.cs",
+              "RelativeToolTip": "CekilisKuraOtomasyonu\\Models\\Sonuc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T20:55:55.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\recep\\source\\repos\\CekilisKuraOtomasyonu\\CekilisKuraOtomasyonu\\Program.cs",
+              "RelativeDocumentMoniker": "CekilisKuraOtomasyonu\\Program.cs",
+              "ToolTip": "C:\\Users\\recep\\source\\repos\\CekilisKuraOtomasyonu\\CekilisKuraOtomasyonu\\Program.cs",
+              "RelativeToolTip": "CekilisKuraOtomasyonu\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T20:47:15.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "KullaniciController.cs",
+              "DocumentMoniker": "C:\\Users\\recep\\source\\repos\\CekilisKuraOtomasyonu\\CekilisKuraOtomasyonu\\Controllers\\KullaniciController.cs",
+              "RelativeDocumentMoniker": "CekilisKuraOtomasyonu\\Controllers\\KullaniciController.cs",
+              "ToolTip": "C:\\Users\\recep\\source\\repos\\CekilisKuraOtomasyonu\\CekilisKuraOtomasyonu\\Controllers\\KullaniciController.cs",
+              "RelativeToolTip": "CekilisKuraOtomasyonu\\Controllers\\KullaniciController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T20:44:08.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\recep\\source\\repos\\CekilisKuraOtomasyonu\\CekilisKuraOtomasyonu\\appsettings.json",
+              "RelativeDocumentMoniker": "CekilisKuraOtomasyonu\\appsettings.json",
+              "ToolTip": "C:\\Users\\recep\\source\\repos\\CekilisKuraOtomasyonu\\CekilisKuraOtomasyonu\\appsettings.json",
+              "RelativeToolTip": "CekilisKuraOtomasyonu\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-01T20:43:16.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CekilisOtomasyonuDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\recep\\source\\repos\\CekilisKuraOtomasyonu\\CekilisKuraOtomasyonu\\Data\\CekilisOtomasyonuDbContext.cs",
+              "RelativeDocumentMoniker": "CekilisKuraOtomasyonu\\Data\\CekilisOtomasyonuDbContext.cs",
+              "ToolTip": "C:\\Users\\recep\\source\\repos\\CekilisKuraOtomasyonu\\CekilisKuraOtomasyonu\\Data\\CekilisOtomasyonuDbContext.cs",
+              "RelativeToolTip": "CekilisKuraOtomasyonu\\Data\\CekilisOtomasyonuDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T20:42:41.923Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
