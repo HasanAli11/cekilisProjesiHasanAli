@@ -14,4 +14,4 @@ Geçmiş Çekilişler sayfası
 ![WhatsApp Image 2025-01-22 at 21 53 10 (4)](https://github.com/user-attachments/assets/ee1bb130-9ee2-42dd-85d1-550639a2d382)
 Sonuçlar sayfası 1
 
-Grup Üyeleri Hasan Ali Dinçel 132130050 Nejat Yahyayev 132030094 Emirhan Utaş 132130034
+Grup Üyeleri Hasan Ali Dinçel 132130050 Nıjat Yahyayev 132030094 Emirhan Utaş 132130034
